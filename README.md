@@ -8,15 +8,13 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 
 ## Steps Followed
 - Reading Data
-- Cleaning Data
 - EDA
 - Splitting data into train and test set
 - Building Model
-- Making Predictions
 - Model Evaluation
 
 ## Details of files given
-- implemented_case_study.ipynb : The notebook file containing code for EDA and Predictive Analysis
+- implemented_case_study.ipynb (with html): The notebook file containing code for EDA and Predictive Analysis
 - subjective_QA.pdf: Solution to the subjective questions
 - lead_scoring_presentation.pdf: Final Presentation
 - summary.pdf: A brief summary explaining the approach
